@@ -40,5 +40,5 @@ and the goal posts would look like this
 
 The player has certain type of moves like pass chip throw in etc 
 the goalkeeper would have all the player moves but jhas some additional moves to catch the ball within ceratin limit of  the area
-The rules are also defined for throw in penalty and hand touched etc.
+The rules are also defined for throw in and hand touched etc.
 
